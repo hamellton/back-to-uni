@@ -709,7 +709,7 @@ margin-left: 10px;
         transition: 0.2s;
         border-radius: 50%;
         border: 2px solid #fff;
-        border-color: #08B89D;
+        border-color: #c71942;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -725,13 +725,13 @@ margin-left: 10px;
     }
     
     #services .icon i {
-        color: #08B89D;
+        color: #c71942;
         font-size: 24px;
     }
     
     #services .box:hover .icon {
         background: #fff;
-        border: 2px solid #08B89D;
+        border: 2px solid #c71942;
     }
     
     #services .box:hover .icon i {
@@ -1507,7 +1507,7 @@ color: white !important;
     }
     
     #why {
-        background: linear-gradient(rgba(52, 59, 64, 0.9), rgba(0, 0, 0, 0.6)), url(../img/call-to-action-bg.jpg) fixed center;
+        background: linear-gradient(rgba(199, 25, 66, 0.9), rgba(199, 25, 66, 0.6)), url(../img/call-to-action-bg.jpg) fixed center;
         background-size: cover;
         padding: 80px 0;
         font-weight: 700;
@@ -1515,7 +1515,7 @@ color: white !important;
     
     @media screen and (max-width: 901px) {
         #why {
-            background: linear-gradient(rgba(52, 59, 64, 0.9), rgba(0, 0, 0, 0.6)), url(../img/call-to-action-bg-m.jpg) fixed center;
+            background: linear-gradient(rgba(199, 25, 66, 0.9), rgba(199, 25, 66, 0.6)), url(../img/call-to-action-bg-m.jpg) fixed center;
             background-size: cover;
             /* background-size: 100%; */
             /* background-repeat: no-repeat; */
