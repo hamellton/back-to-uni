@@ -154,7 +154,8 @@
         width: 100%;
         height: 65vh;
         /* background: url(../img/hero-bg.jpg) top center; */
-        background-image: url("../img/index4.png");
+        /* background-image: url("../img/index4.png"); */
+        background-image: url("../img/BTU-banners.png");
         /* background-position: center left 45%; */
         /* background-position: center 120%; */
         background-size: 100%;
@@ -169,7 +170,8 @@
         #hero {
             width: 100%;
             height: 30vh;
-            background-image: url("../img/index4-m.png");
+            /* background-image: url("../img/index4-m.png"); */
+            background-image: url("../img/BTU-banners-mobile.png");
             background-position: 50% 0%;
             background-size: 100%;
             background-repeat: no-repeat;
@@ -180,6 +182,7 @@
         width: 100%;
         height: 65vh;
         /* background: url(../img/hero-bg.jpg) top center; */
+        /* background-image: url("../img/BTU.png"); */
         background-image: url("../img/BTU.png");
         /* background-position: center left 45%; */
         /* background-position: center 120%; */
@@ -1375,6 +1378,7 @@ font-size: 1rem;
     
     table .card {
         max-width: 12rem;
+        /* width: 12rem; */
     }
     
     table .card.disabled {
