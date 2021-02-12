@@ -1345,7 +1345,7 @@ font-size: 1rem;
     }
     table .international,
     .modal-dialog .international {
-        background-color: #3CB371;
+        background-color: #ffb796;
         color: #222222;
     }
     
@@ -1475,7 +1475,7 @@ font-size: 1rem;
         color: #222222;
     }
     .accordion .international {
-        background-color: #3CB371;
+        background-color: #ffb796;
         color: #222222;
     }
     
@@ -1653,7 +1653,7 @@ color: white !important;
         padding-right: 8px;
     }
     .bg-international {
-        background: #3CB371;
+        background: #ffb796;
         padding-top: 2px;
         padding-bottom: 2px;
         padding-left: 8px;
