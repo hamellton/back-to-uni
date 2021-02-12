@@ -4,7 +4,6 @@
     <list default="true" id="f94ce475-8be8-4bca-a2f5-c361c1082ea4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/done/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/done/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +14,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ldsaUQKzykYaFQs9GxoemnLWGI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +37,8 @@
       <workItem from="1607938366846" duration="711000" />
       <workItem from="1607956267540" duration="3836000" />
       <workItem from="1611579843799" duration="8094000" />
+      <workItem from="1613129763683" duration="25000" />
+      <workItem from="1613130444193" duration="1780000" />
     </task>
     <servers />
   </component>

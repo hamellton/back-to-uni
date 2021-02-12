@@ -1343,6 +1343,11 @@ font-size: 1rem;
         background-color: #fef6c7;
         color: #222222;
     }
+    table .international,
+    .modal-dialog .international {
+        background-color: #3CB371;
+        color: #222222;
+    }
     
     table .blue,
     .modal-dialog .blue {
@@ -1467,6 +1472,10 @@ font-size: 1rem;
     
     .accordion .orange {
         background-color: #ffeeba;
+        color: #222222;
+    }
+    .accordion .international {
+        background-color: #3CB371;
         color: #222222;
     }
     
@@ -1638,6 +1647,13 @@ color: white !important;
     
     .bg-green {
         background: #eff7e0;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    .bg-international {
+        background: #3CB371;
         padding-top: 2px;
         padding-bottom: 2px;
         padding-left: 8px;
